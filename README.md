@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to better my skills in the software domain everyday .
   
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: 
+
 
 <!---
 larachanda/larachanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
